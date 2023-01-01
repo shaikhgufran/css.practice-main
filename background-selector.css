@@ -1,0 +1,12 @@
+body{
+    background-image: url(./tree.jpg/);
+    background-size: 500px;
+    background-repeat: no-repeat;
+}
+h1{
+    background-color: rgba(82, 208,218,0.5);
+
+}
+div{
+    background-color: rgba(0, 225,225,0.5);
+}

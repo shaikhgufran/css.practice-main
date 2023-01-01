@@ -1,0 +1,18 @@
+p {
+    background-color: aqua;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+ div {
+    background-color: blueviolet;
+ }
+  #uniqueheading {
+    color: red;
+    background-color: aqua;
+    border: 2px solid black;
+  }
+
+  .center{
+    text-align: center;
+    color: brown;
+  }
